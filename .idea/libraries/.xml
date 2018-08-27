@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="常用工具">
+    <CLASSES>
+      <root url="jar://D:/apache-tomcat-8.5.12/lib/servlet-api.jar!/" />
+      <root url="jar://D:/sitemesh-2.4.2.jar!/" />
+      <root url="jar://D:/jstl.jar!/" />
+      <root url="jar://D:/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
